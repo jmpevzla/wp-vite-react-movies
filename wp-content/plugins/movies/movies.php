@@ -1,11 +1,11 @@
 <?php
 /**
 * Plugin Name: Ejemplo de movies
-* Plugin URI: http://movies.org
+* Plugin URI: http://wp-movies.org
 * Description: Este plugin es para el tutorial de freeCodeCamp con react
 * Version: 1.0.0
 * Author: Jose Perez
-* Author URI: http://josemperez.com
+* Author URI: https://github.com/jmpevzla
 * Requires at least: 5.0
 * Tested up to: 5.9
 *
